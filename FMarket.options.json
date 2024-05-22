@@ -1,0 +1,1577 @@
+[{
+  "_id": {
+    "$oid": "65586cd1e7083709c20bd67f"
+  },
+  "product_id": {
+    "$oid": "65586c09e7083709c20bd679"
+  },
+  "name_color": "Trắng",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701332303/Product/i1lmhkh8zqix3uwl539k.png",
+  "price": 33990000,
+  "discount_value": 10,
+  "quantity": 7,
+  "soldQuantity": 24,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-11-18T07:50:41.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T15:33:25.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65586ce3e7083709c20bd685"
+  },
+  "product_id": {
+    "$oid": "65586c09e7083709c20bd679"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700293855/Product/m8wii1t0r9nbqvlon9cd.png",
+  "price": 33990000,
+  "discount_value": 10,
+  "quantity": 0,
+  "soldQuantity": 31,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-11-18T07:50:59.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T06:16:21.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65586cefe7083709c20bd68b"
+  },
+  "product_id": {
+    "$oid": "65586c09e7083709c20bd679"
+  },
+  "name_color": "Xanh",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700293867/Product/hf4qvpjgltpf82wamay6.png",
+  "price": 33990000,
+  "discount_value": 10,
+  "quantity": 8,
+  "soldQuantity": 23,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-11-18T07:51:11.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T13:44:49.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65586d09e7083709c20bd691"
+  },
+  "product_id": {
+    "$oid": "65586c09e7083709c20bd679"
+  },
+  "name_color": "TiTan Tự Nhiên",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700293893/Product/x3vhhroitaah9i4vnyfu.png",
+  "price": 33990000,
+  "discount_value": 10,
+  "quantity": -9,
+  "soldQuantity": 40,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-18T07:51:37.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T06:13:21.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655873eee7083709c20bd6c0"
+  },
+  "product_id": {
+    "$oid": "65587348e7083709c20bd6ba"
+  },
+  "name_color": "Vàng",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700295658/Product/cdzjr6xxm5nkf2y0jkhu.png",
+  "price": 27390000,
+  "discount_value": 10,
+  "quantity": 9,
+  "soldQuantity": 22,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-18T08:21:02.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T14:50:18.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655873fae7083709c20bd6c6"
+  },
+  "product_id": {
+    "$oid": "65587348e7083709c20bd6ba"
+  },
+  "name_color": "Tím",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700295670/Product/waltexnnckbyznuyb1v3.png",
+  "price": 27390000,
+  "discount_value": 10,
+  "quantity": 7,
+  "soldQuantity": 24,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-18T08:21:14.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T14:50:18.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65587405e7083709c20bd6cc"
+  },
+  "product_id": {
+    "$oid": "65587348e7083709c20bd6ba"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700295681/Product/ogkxg5vafyxzmhstfjvl.png",
+  "price": 27390000,
+  "discount_value": 10,
+  "quantity": 7,
+  "soldQuantity": 24,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-18T08:21:25.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T14:50:18.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3d612ce1db4ff88c7b43"
+  },
+  "product_id": {
+    "$oid": "655e3c9c2ce1db4ff88c7b3d"
+  },
+  "name_color": "Bạc",
+  "color_code": "#F5F5F5",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700674912/Product/jdvxskutbjbb52ljuey5.png",
+  "price": 9900000,
+  "discount_value": 15,
+  "quantity": 182,
+  "soldQuantity": 74,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T17:41:53.274Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T06:13:24.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e45e02ce1db4ff88c7bce"
+  },
+  "product_id": {
+    "$oid": "655e3f8d2ce1db4ff88c7b4a"
+  },
+  "name_color": "Đen",
+  "color_code": "#00000",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700677088/Product/izefihgpgpm78xjsklag.png",
+  "price": 15000000,
+  "discount_value": 20,
+  "quantity": 200,
+  "soldQuantity": 50,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T18:18:08.813Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T18:18:08.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e494e2ce1db4ff88c7c14"
+  },
+  "product_id": {
+    "$oid": "655e48d62ce1db4ff88c7c0e"
+  },
+  "name_color": "Đen",
+  "color_code": "#00000",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700677965/Product/pfqcubnmmrywjrpy43mz.png",
+  "price": 23000000,
+  "discount_value": 20,
+  "quantity": 110,
+  "soldQuantity": 57,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T18:32:46.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T06:13:15.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e4ef205d37fb1bd4c3145"
+  },
+  "product_id": {
+    "$oid": "655e4ec905d37fb1bd4c313f"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700679409/Product/mb0zmatsyy4prjzbfqhy.png",
+  "price": 27390000,
+  "discount_value": 10,
+  "quantity": 9,
+  "soldQuantity": 22,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T18:56:50.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T14:50:19.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e4eff05d37fb1bd4c314b"
+  },
+  "product_id": {
+    "$oid": "655e4ec905d37fb1bd4c313f"
+  },
+  "name_color": "Xanh",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700679421/Product/jzwsva1wbjjbjb7sbz06.png",
+  "price": 27390000,
+  "discount_value": 10,
+  "quantity": 9,
+  "soldQuantity": 22,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T18:57:03.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T14:50:19.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e4f0805d37fb1bd4c3151"
+  },
+  "product_id": {
+    "$oid": "655e4ec905d37fb1bd4c313f"
+  },
+  "name_color": "Tím",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700679431/Product/daxtdxosskqvco3jtplq.png",
+  "price": 27390000,
+  "discount_value": 10,
+  "quantity": 9,
+  "soldQuantity": 22,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T18:57:12.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T14:50:19.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e50c705d37fb1bd4c31a0"
+  },
+  "product_id": {
+    "$oid": "655e508c05d37fb1bd4c319a"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700679878/Product/ysmr0qhbw0t4r4pwy0jv.png",
+  "price": 16990000,
+  "discount_value": 10,
+  "quantity": 9,
+  "soldQuantity": 22,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-22T19:04:39.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T06:13:19.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65622694c7a3b23dfcedd74d"
+  },
+  "product_id": {
+    "$oid": "6562266dc7a3b23dfcedd747"
+  },
+  "name_color": "đen",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1700931220/Product/cgpqdxgk406oanom1gg2.png",
+  "price": 1,
+  "discount_value": 1,
+  "quantity": 1,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-25T16:53:40.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T16:53:40.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656428b0c7a3b23dfcedd990"
+  },
+  "product_id": {
+    "$oid": "656427f0c7a3b23dfcedd98a"
+  },
+  "name_color": "Vàng",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701062829/Product/shwsulrs1rnpc3it3kr4.png",
+  "price": 5500000,
+  "discount_value": 0,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-11-27T05:27:12.630Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-27T05:27:12.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656428c4c7a3b23dfcedd996"
+  },
+  "product_id": {
+    "$oid": "656427f0c7a3b23dfcedd98a"
+  },
+  "name_color": "Xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701062849/Product/csbptkov0y0axumrdkbs.png",
+  "price": 5500000,
+  "discount_value": 0,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-11-27T05:27:32.242Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T09:18:38.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656428d7c7a3b23dfcedd99c"
+  },
+  "product_id": {
+    "$oid": "656427f0c7a3b23dfcedd98a"
+  },
+  "name_color": "Đen",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701062868/Product/i2tmstwp8bvrupwhlevc.png",
+  "price": 5500000,
+  "discount_value": 0,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-11-27T05:27:51.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T09:18:34.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6569ea10ddc469ae759a3dc7"
+  },
+  "product_id": {
+    "$oid": "6569e9ebddc469ae759a3dc1"
+  },
+  "name_color": "Xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701440014/Product/fqxcm6jcx8ubyfyn3gel.png",
+  "price": 1,
+  "discount_value": 2,
+  "quantity": 3,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-01T14:13:36.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T14:13:36.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ef522249b285058daccf4"
+  },
+  "product_id": {
+    "$oid": "656ef4a5249b285058daccee"
+  },
+  "name_color": "Đen",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701770529/Product/lvxm2uv2vbooxzdmzjwe.png",
+  "price": 63000000,
+  "discount_value": 0,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-05T10:02:10.467Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T10:02:10.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f19f8249b285058dacfa9"
+  },
+  "product_id": {
+    "$oid": "656ef4a5249b285058daccee"
+  },
+  "name_color": "Xám",
+  "price": 63000000,
+  "discount_value": 0,
+  "quantity": 18,
+  "soldQuantity": 2,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-05T12:39:20.111Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T08:14:29.704Z"
+  },
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701780141/Product/ay1oqtmlxj6nkz61pu4q.png"
+},
+{
+  "_id": {
+    "$oid": "656f1ae4249b285058dad045"
+  },
+  "product_id": {
+    "$oid": "656ef4a5249b285058daccee"
+  },
+  "name_color": "Tím",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701780195/Product/yq5mwvjwkqxcw0a80eqz.png",
+  "price": 63000000,
+  "discount_value": 0,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-05T12:43:16.916Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T12:43:16.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65705e90a6103e6dc9a459dd"
+  },
+  "product_id": {
+    "$oid": "65705deaa6103e6dc9a459d7"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863053/Product/kmcakwaaaevxiyccua5c.png",
+  "price": 23990000,
+  "discount_value": 10,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T11:44:16.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T11:44:16.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65705ea3a6103e6dc9a459e4"
+  },
+  "product_id": {
+    "$oid": "65705deaa6103e6dc9a459d7"
+  },
+  "name_color": "Tím",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863071/Product/j96butw432g9i36byr9y.png",
+  "price": 23990000,
+  "discount_value": 10,
+  "quantity": 16,
+  "soldQuantity": 4,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T11:44:35.258Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T23:39:47.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65705eada6103e6dc9a459eb"
+  },
+  "product_id": {
+    "$oid": "65705deaa6103e6dc9a459d7"
+  },
+  "name_color": "Xanh",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863082/Product/cvxj660khd1xfnflxl5z.png",
+  "price": 23990000,
+  "discount_value": 10,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T11:44:45.387Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T11:44:45.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65705ebba6103e6dc9a459f2"
+  },
+  "product_id": {
+    "$oid": "65705deaa6103e6dc9a459d7"
+  },
+  "name_color": "Trắng",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863095/Product/rruhufa3cs1aedzhcd3s.png",
+  "price": 23990000,
+  "discount_value": 10,
+  "quantity": 17,
+  "soldQuantity": 3,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T11:44:59.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T13:45:07.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657060dba6103e6dc9a45a00"
+  },
+  "product_id": {
+    "$oid": "657060a0a6103e6dc9a459fa"
+  },
+  "name_color": "Xanh",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863640/Product/fhogp9nqtrp4nybquyl5.png",
+  "price": 8990000,
+  "discount_value": 10,
+  "quantity": 40,
+  "soldQuantity": 10,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T11:54:03.658Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T02:22:37.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706185a6103e6dc9a45a07"
+  },
+  "product_id": {
+    "$oid": "657060a0a6103e6dc9a459fa"
+  },
+  "name_color": "Bạc",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863810/Product/obihrctynkso67malbge.png",
+  "price": 8990000,
+  "discount_value": 10,
+  "quantity": 15,
+  "soldQuantity": 5,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-06T11:56:53.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T23:40:21.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706192a6103e6dc9a45a0e"
+  },
+  "product_id": {
+    "$oid": "657060a0a6103e6dc9a459fa"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701863822/Product/uim8v1kn5bwz4ww1srwc.png",
+  "price": 8990000,
+  "discount_value": 10,
+  "quantity": 16,
+  "soldQuantity": 4,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-06T11:57:06.011Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T23:39:47.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706258a6103e6dc9a45a1c"
+  },
+  "product_id": {
+    "$oid": "65706227a6103e6dc9a45a16"
+  },
+  "name_color": "Xanh Dương",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701864021/Product/jlgugmorij894wxoumr9.png",
+  "price": 11990000,
+  "discount_value": 10,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:00:24.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:00:24.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706267a6103e6dc9a45a23"
+  },
+  "product_id": {
+    "$oid": "65706227a6103e6dc9a45a16"
+  },
+  "name_color": "Xanh Lá",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701864036/Product/spxzctmna9u8ghfcnujx.png",
+  "price": 11990000,
+  "discount_value": 10,
+  "quantity": 14,
+  "soldQuantity": 6,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:00:39.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T23:40:21.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706271a6103e6dc9a45a2a"
+  },
+  "product_id": {
+    "$oid": "65706227a6103e6dc9a45a16"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701864046/Product/c8hfpy2fpccwhyjwyoot.png",
+  "price": 11990000,
+  "discount_value": 10,
+  "quantity": 18,
+  "soldQuantity": 2,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:00:49.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T23:40:10.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657068f8a6103e6dc9a45bb8"
+  },
+  "product_id": {
+    "$oid": "657068afa6103e6dc9a45bb2"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701865716/Product/fgbgsnth89cfsxkcxku2.png",
+  "price": 10720000,
+  "discount_value": 10,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:28:40.175Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:28:40.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657069f1a6103e6dc9a45bc6"
+  },
+  "product_id": {
+    "$oid": "657069c6a6103e6dc9a45bc0"
+  },
+  "name_color": "Đen",
+  "color_code": "Xám",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701865966/Product/i5bd294o4xtieiemugek.png",
+  "price": 19720000,
+  "discount_value": 10,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:32:49.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:32:49.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706acaa6103e6dc9a45bd4"
+  },
+  "product_id": {
+    "$oid": "65706a9fa6103e6dc9a45bce"
+  },
+  "name_color": "Đen",
+  "color_code": "Xám",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701866183/Product/ugsj8mubbmz3ktnq1qw4.png",
+  "price": 22720000,
+  "discount_value": 10,
+  "quantity": 17,
+  "soldQuantity": 3,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:36:26.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T08:29:26.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706bdfa6103e6dc9a45be2"
+  },
+  "product_id": {
+    "$oid": "65706bb1a6103e6dc9a45bdc"
+  },
+  "name_color": "Đen",
+  "color_code": "Xám",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701866460/Product/dtxkoq2ahlyo74ssmluh.png",
+  "price": 56990000,
+  "discount_value": 10,
+  "quantity": 17,
+  "soldQuantity": 3,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:41:03.851Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T07:54:08.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706d89a6103e6dc9a45c5b"
+  },
+  "product_id": {
+    "$oid": "65706d4aa6103e6dc9a45c55"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701866886/Product/yyfdjqelweobfpr6mrqf.png",
+  "price": 3890000,
+  "discount_value": 10,
+  "quantity": 19,
+  "soldQuantity": 1,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:48:09.639Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T07:50:47.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706e2aa6103e6dc9a45c69"
+  },
+  "product_id": {
+    "$oid": "65706e01a6103e6dc9a45c63"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701867047/Product/k7bp95bywxvfjn0bckmf.png",
+  "price": 5890000,
+  "discount_value": 10,
+  "quantity": 20,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:50:50.532Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:50:50.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706ee8a6103e6dc9a45c77"
+  },
+  "product_id": {
+    "$oid": "65706ec1a6103e6dc9a45c71"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701867236/Product/wbgoshnmertdvsas0vi7.png",
+  "price": 5490000,
+  "discount_value": 10,
+  "quantity": 14,
+  "soldQuantity": 6,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:54:00.284Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T23:40:21.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65706fb6a6103e6dc9a45c85"
+  },
+  "product_id": {
+    "$oid": "65706f8ea6103e6dc9a45c7f"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701867442/Product/cuiil6giphmnqqwf9b1a.png",
+  "price": 1490000,
+  "discount_value": 10,
+  "quantity": 17,
+  "soldQuantity": 3,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T12:57:26.055Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T02:22:37.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570720ba6103e6dc9a45d14"
+  },
+  "product_id": {
+    "$oid": "6570711da6103e6dc9a45d0e"
+  },
+  "name_color": "Xanh",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868040/Product/nhizduyppn9ncdddfqyl.png",
+  "price": 1990000,
+  "discount_value": 10,
+  "quantity": 16,
+  "soldQuantity": 4,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T13:07:23.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T11:03:04.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65707217a6103e6dc9a45d1b"
+  },
+  "product_id": {
+    "$oid": "6570711da6103e6dc9a45d0e"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868052/Product/yahsco8tbjrxczoeawtr.png",
+  "price": 1990000,
+  "discount_value": 10,
+  "quantity": 19,
+  "soldQuantity": 1,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T13:07:35.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T18:04:47.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65707220a6103e6dc9a45d22"
+  },
+  "product_id": {
+    "$oid": "6570711da6103e6dc9a45d0e"
+  },
+  "name_color": "Trắng",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868060/Product/cj6beap8wjg342kpk5dc.png",
+  "price": 1990000,
+  "discount_value": 10,
+  "quantity": 17,
+  "soldQuantity": 3,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T13:07:44.113Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T08:29:26.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65707333a6103e6dc9a45d30"
+  },
+  "product_id": {
+    "$oid": "657072ffa6103e6dc9a45d2a"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868336/Product/hc9astmwgohuxhx2kqjw.png",
+  "price": 1090000,
+  "discount_value": 10,
+  "quantity": 13,
+  "soldQuantity": 7,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T13:12:19.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T02:22:37.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657073fca6103e6dc9a45d3e"
+  },
+  "product_id": {
+    "$oid": "657073d9a6103e6dc9a45d38"
+  },
+  "name_color": "Đen",
+  "color_code": "#FFFFFFF",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868536/Product/anpwnubp0vykeq25ekvz.png",
+  "price": 27590000,
+  "discount_value": 10,
+  "quantity": 13,
+  "soldQuantity": 7,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-06T13:15:40.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T15:02:33.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65775204e7f110b39e984a11"
+  },
+  "product_id": {
+    "$oid": "657751ebe7f110b39e984a0b"
+  },
+  "name_color": "xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702318595/Product/eiiw4lz0vs2yjcvpelvr.png",
+  "price": 1,
+  "discount_value": 1,
+  "quantity": 1,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-11T18:16:36.487Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T18:16:36.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65793d9306f0ad29ecc91bdc"
+  },
+  "product_id": {
+    "$oid": "65793d7d06f0ad29ecc91bd6"
+  },
+  "name_color": "a",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702444433/Product/cwok1zn2hksfhpseyotj.png",
+  "price": 1,
+  "discount_value": 1,
+  "quantity": 1,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-13T05:13:55.980Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T05:13:55.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c6d936d84222ad251abb0"
+  },
+  "product_id": {
+    "$oid": "657c6d696d84222ad251abaa"
+  },
+  "name_color": "a",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702653328/Product/ym1vpzegcehzmljzlaux.png",
+  "price": 2,
+  "discount_value": 1,
+  "quantity": 1,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-15T15:15:31.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T15:15:31.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d8ada4e0ae12a28565a8d"
+  },
+  "product_id": {
+    "$oid": "657d8a824e0ae12a28565a87"
+  },
+  "name_color": "xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702726359/Product/isk99l63hnvke9jsjnaq.png",
+  "price": 1000000,
+  "discount_value": 0,
+  "quantity": 10,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-16T11:32:42.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T11:32:42.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6580035151edc29424562f71"
+  },
+  "product_id": {
+    "$oid": "6580030451edc29424562d2d"
+  },
+  "name_color": "đỏ",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702888273/Product/tids3cc2hpl8i7lzgiii.png",
+  "price": 2500000,
+  "discount_value": 60,
+  "quantity": 1000,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-18T08:31:13.019Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T08:31:13.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6580090651edc29424564024"
+  },
+  "product_id": {
+    "$oid": "658008a651edc29424563c67"
+  },
+  "name_color": "h",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702889736/Product/xei3o289zudszuce8pjn.png",
+  "price": 6,
+  "discount_value": 6,
+  "quantity": 5,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-18T08:55:34.826Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T08:55:34.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6580868aebcb5ade3e94c2e6"
+  },
+  "product_id": {
+    "$oid": "65808647ebcb5ade3e94c27e"
+  },
+  "name_color": "blue",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702921867/Product/hop84qtaqujiufcsljrm.png",
+  "price": 21490000,
+  "discount_value": 20,
+  "quantity": 89,
+  "soldQuantity": 11,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-18T17:51:06.085Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T06:17:50.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65808920ebcb5ade3e94c8d5"
+  },
+  "product_id": {
+    "$oid": "658088dcebcb5ade3e94c8cf"
+  },
+  "name_color": "đỏ",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702922527/Product/ykswvj1ps865hbuhaubw.png",
+  "price": 12000,
+  "discount_value": 123,
+  "quantity": 120,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-18T18:02:08.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T18:02:08.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65808978ebcb5ade3e94caa9"
+  },
+  "product_id": {
+    "$oid": "658088dcebcb5ade3e94c8cf"
+  },
+  "name_color": "g",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702922616/Product/feib7vlgv7el9qh4j9uh.png",
+  "price": 122,
+  "discount_value": 120,
+  "quantity": 120,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-18T18:03:36.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T18:03:36.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581127cebcb5ade3e94fe67"
+  },
+  "product_id": {
+    "$oid": "658110eaebcb5ade3e94f868"
+  },
+  "name_color": "white",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702957693/Product/mxk6n0tqvdjzcusliipw.png",
+  "price": 28900000,
+  "discount_value": 0,
+  "quantity": 110,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-19T03:48:12.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T03:48:12.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658112d0ebcb5ade3e94fffe"
+  },
+  "product_id": {
+    "$oid": "658110eaebcb5ade3e94f868"
+  },
+  "name_color": "black",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702957777/Product/ts4jbx4fguimhlddrjfv.png",
+  "price": 28900000,
+  "discount_value": 0,
+  "quantity": 85,
+  "soldQuantity": 15,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-19T03:49:36.162Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T06:17:50.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581160cebcb5ade3e950468"
+  },
+  "product_id": {
+    "$oid": "6581158bebcb5ade3e950462"
+  },
+  "name_color": "xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702958605/Product/lgqdtwolggm8qip2sq4b.png",
+  "price": 12990000,
+  "discount_value": 0,
+  "quantity": 200,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-19T04:03:24.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T04:03:24.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658116a1ebcb5ade3e95060e"
+  },
+  "product_id": {
+    "$oid": "6581158bebcb5ade3e950462"
+  },
+  "name_color": "Xám titan",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702958754/Product/joqco9kkbsskfz3qn90q.png",
+  "price": 12990000,
+  "discount_value": 0,
+  "quantity": 190,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-19T04:05:53.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T04:05:53.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65811936ebcb5ade3e950702"
+  },
+  "product_id": {
+    "$oid": "658118d7ebcb5ade3e9506fc"
+  },
+  "name_color": "Trắng sữa",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702959415/Product/gmo46ztpmuy5ydqgstir.png",
+  "price": 44900001,
+  "discount_value": 0,
+  "quantity": 50,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-19T04:16:54.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T16:24:39.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581197cebcb5ade3e9508b7"
+  },
+  "product_id": {
+    "$oid": "658118d7ebcb5ade3e9506fc"
+  },
+  "name_color": "Đen1",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702959486/Product/y6hh85fpdzj0aiwktmtj.png",
+  "price": 4490000,
+  "discount_value": 0,
+  "quantity": 54,
+  "soldQuantity": 1,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-19T04:18:04.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T16:24:50.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65811996ebcb5ade3e9508bd"
+  },
+  "product_id": {
+    "$oid": "658118d7ebcb5ade3e9506fc"
+  },
+  "name_color": "xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702959512/Product/uusrmxacfdagaagyjelz.png",
+  "price": 4490000,
+  "discount_value": 0,
+  "quantity": 55,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-19T04:18:30.907Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T04:18:30.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65814fdeebcb5ade3e953fd8"
+  },
+  "product_id": {
+    "$oid": "65814fadebcb5ade3e953fd2"
+  },
+  "name_color": "đỏ",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702973407/Product/gdzvzreqzqorkpzgvrdh.png",
+  "price": 2000,
+  "discount_value": 20,
+  "quantity": 120,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-19T08:10:06.578Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T08:10:06.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581514cebcb5ade3e9544ef"
+  },
+  "product_id": {
+    "$oid": "65706227a6103e6dc9a45a16"
+  },
+  "name_color": "đỏ",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702973773/Product/sejpgypntocjevaz8pkt.png",
+  "price": 12,
+  "discount_value": 12,
+  "quantity": 1337,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2023-12-19T08:16:12.432Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T08:16:12.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658161caebcb5ade3e956744"
+  },
+  "product_id": {
+    "$oid": "658161a5ebcb5ade3e95673e"
+  },
+  "name_color": "đổ",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1702977995/Product/st9fyxqswn4kmdb0ghab.png",
+  "price": 1200,
+  "discount_value": 20,
+  "quantity": 116,
+  "soldQuantity": 4,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2023-12-19T09:26:34.377Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T09:30:47.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eb340ccc4a436daff8d805"
+  },
+  "product_id": {
+    "$oid": "65eb33decc4a436daff8d7fd"
+  },
+  "name_color": "va",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1710075808/Product/auw8ksmggnilngetuydw.png",
+  "price": 10,
+  "discount_value": 0,
+  "quantity": 1212,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2024-03-08T15:51:40.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T13:03:28.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edc701c25d134df6d15d99"
+  },
+  "product_id": {
+    "$oid": "65edc6ccc25d134df6d15b6e"
+  },
+  "name_color": "xanh1",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1710081793/Product/xvb1xjn04gjh6g7zmqok.png",
+  "price": 10,
+  "discount_value": 0,
+  "quantity": 12,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2024-03-10T14:43:13.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T14:43:24.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edcc93c25d134df6d16a8f"
+  },
+  "product_id": {
+    "$oid": "65eb33decc4a436daff8d7fd"
+  },
+  "name_color": "xanh11",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1710083218/Product/vthwgo9fkceaqrjir4c1.png",
+  "price": 10111,
+  "discount_value": 10,
+  "quantity": 121,
+  "soldQuantity": 0,
+  "hot_option": true,
+  "createdAt": {
+    "$date": "2024-03-10T15:06:59.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T15:07:21.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edcdddc25d134df6d1774d"
+  },
+  "product_id": {
+    "$oid": "65edcd55c25d134df6d17742"
+  },
+  "name_color": "xanh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1710083542/Product/flbwzhpw20ov00pwycuu.png",
+  "price": 11,
+  "discount_value": 0,
+  "quantity": 111,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2024-03-10T15:12:29.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T15:12:29.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f841d8c24830ce7c5edd72"
+  },
+  "product_id": {
+    "$oid": "65f84184c24830ce7c5edd6c"
+  },
+  "name_color": "Trắng",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1710768598/Product/mixwm33zhmuajak8f1fv.png",
+  "price": 16460000,
+  "discount_value": 0,
+  "quantity": 850,
+  "soldQuantity": 150,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2024-03-18T13:30:00.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T13:40:11.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f841dac24830ce7c5edd76"
+  },
+  "product_id": {
+    "$oid": "65f84184c24830ce7c5edd6c"
+  },
+  "name_color": "Trắng",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1710768600/Product/kzqjgh0byfo52yxqn7it.png",
+  "price": 16460000,
+  "discount_value": 0,
+  "quantity": 1000,
+  "soldQuantity": 0,
+  "hot_option": false,
+  "createdAt": {
+    "$date": "2024-03-18T13:30:02.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T13:30:02.867Z"
+  },
+  "__v": 0
+}]

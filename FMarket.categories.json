@@ -1,0 +1,353 @@
+[{
+  "_id": {
+    "$oid": "654df46fde2dd24f7fc38944"
+  },
+  "name": "Điện thoại",
+  "image": "null",
+  "product": [
+    "654657e0a4fff74fcacb2f26",
+    "6546674fcec8f8bb733f983c",
+    "6546674fcec8f8bb733f983f",
+    {
+      "$oid": "6550838c7d6208dbc0e6c17e"
+    },
+    {
+      "$oid": "65508cb00d3119f00804c894"
+    },
+    {
+      "$oid": "65508fdd0d3119f00804c8cd"
+    },
+    {
+      "$oid": "655398c22a51bb06f0956cfc"
+    },
+    {
+      "$oid": "65586c09e7083709c20bd679"
+    },
+    {
+      "$oid": "65587348e7083709c20bd6ba"
+    },
+    {
+      "$oid": "655e4ec905d37fb1bd4c313f"
+    },
+    {
+      "$oid": "65604e3605d37fb1bd4c388f"
+    },
+    {
+      "$oid": "656051c59b70eb5a545fac08"
+    },
+    {
+      "$oid": "656053289b70eb5a545fac7d"
+    },
+    {
+      "$oid": "6560564d9b70eb5a545facf8"
+    },
+    {
+      "$oid": "656058929b70eb5a545fad7e"
+    },
+    {
+      "$oid": "65605b029b70eb5a545faf51"
+    },
+    {
+      "$oid": "65606cff9b70eb5a545fb4e4"
+    },
+    {
+      "$oid": "6562266dc7a3b23dfcedd747"
+    },
+    {
+      "$oid": "656873ed598569a5c26abcdb"
+    },
+    {
+      "$oid": "65699e1a8754fc2852156140"
+    },
+    {
+      "$oid": "65699fcc8754fc285215624a"
+    },
+    {
+      "$oid": "65699fd58754fc2852156251"
+    },
+    {
+      "$oid": "65699fea8754fc2852156258"
+    },
+    {
+      "$oid": "656ae6e73df3b8da46ee183f"
+    },
+    {
+      "$oid": "656d908f85e4b509eeadcc7c"
+    },
+    {
+      "$oid": "65705deaa6103e6dc9a459d7"
+    },
+    {
+      "$oid": "657060a0a6103e6dc9a459fa"
+    },
+    {
+      "$oid": "65706227a6103e6dc9a45a16"
+    },
+    {
+      "$oid": "657c6d696d84222ad251abaa"
+    },
+    {
+      "$oid": "65808647ebcb5ade3e94c27e"
+    },
+    {
+      "$oid": "658110eaebcb5ade3e94f868"
+    },
+    {
+      "$oid": "6581158bebcb5ade3e950462"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:14:23.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T06:14:50.535Z"
+  },
+  "__v": 43
+},
+{
+  "_id": {
+    "$oid": "654df48cde2dd24f7fc38947"
+  },
+  "name": "Laptop",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607691/categories/rgan2qfbnooi2zmadnxm.png",
+  "product": [
+    {
+      "$oid": "654f999518cbb26c29b99151"
+    },
+    {
+      "$oid": "654f99e718cbb26c29b99157"
+    },
+    {
+      "$oid": "6550ff5d05a6bcae8f7614c5"
+    },
+    {
+      "$oid": "655102f405a6bcae8f7614ca"
+    },
+    {
+      "$oid": "6551055e05a6bcae8f7614cf"
+    },
+    {
+      "$oid": "655e3c9c2ce1db4ff88c7b3d"
+    },
+    {
+      "$oid": "655e3f8d2ce1db4ff88c7b4a"
+    },
+    {
+      "$oid": "655e48d62ce1db4ff88c7c0e"
+    },
+    {
+      "$oid": "655e508c05d37fb1bd4c319a"
+    },
+    {
+      "$oid": "65604efe9b70eb5a545fabbf"
+    },
+    {
+      "$oid": "656988cc064b5058a669b691"
+    },
+    {
+      "$oid": "6569e9ebddc469ae759a3dc1"
+    },
+    {
+      "$oid": "656ef4a5249b285058daccee"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:14:52.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-08T14:55:07.555Z"
+  },
+  "__v": 15
+},
+{
+  "_id": {
+    "$oid": "654df49ade2dd24f7fc3894a"
+  },
+  "name": "Tai nghe",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607705/categories/hvg6nkfy7vgdqrtaiiza.png",
+  "product": [
+    {
+      "$oid": "655092ec0d3119f00804c94f"
+    },
+    {
+      "$oid": "655093ce0d3119f00804c957"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:15:06.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-08T10:08:41.691Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "654df4edde2dd24f7fc3894d"
+  },
+  "name": "Màn Hình",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607788/categories/udx1wzvfsmprkprrddx0.png",
+  "product": [
+    {
+      "$oid": "6552420a146678eee14772f1"
+    },
+    {
+      "$oid": "655242c5146678eee14772f6"
+    },
+    {
+      "$oid": "655495ea73bdeb6df4b3151b"
+    },
+    {
+      "$oid": "6554969573bdeb6df4b31520"
+    },
+    {
+      "$oid": "6554973f73bdeb6df4b31525"
+    },
+    {
+      "$oid": "6554979573bdeb6df4b3152a"
+    },
+    {
+      "$oid": "65699e298754fc2852156155"
+    },
+    {
+      "$oid": "65706d4aa6103e6dc9a45c55"
+    },
+    {
+      "$oid": "65706e01a6103e6dc9a45c63"
+    },
+    {
+      "$oid": "65706ec1a6103e6dc9a45c71"
+    },
+    {
+      "$oid": "65706f8ea6103e6dc9a45c7f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:16:29.462Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T18:05:08.584Z"
+  },
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "654df517de2dd24f7fc38950"
+  },
+  "name": "Bàn phím",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607830/categories/gpkkplnvr6dliogu0oaa.png",
+  "product": [
+    {
+      "$oid": "65524349146678eee14772fb"
+    },
+    {
+      "$oid": "655246c9146678eee1477300"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:17:11.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-13T15:54:49.427Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "654df545de2dd24f7fc38953"
+  },
+  "name": "Camera an ninh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607876/categories/isohomghgbzfzxudxevl.png",
+  "product": [
+    {
+      "$oid": "65699e258754fc285215614e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:17:57.856Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T08:49:41.620Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "654df560de2dd24f7fc38956"
+  },
+  "name": "Pc",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607904/categories/zcgqtml4umifr08hkyhu.png",
+  "product": [
+    {
+      "$oid": "655107ad05a6bcae8f7614d4"
+    },
+    {
+      "$oid": "656221cd20917ab5c9e2058f"
+    },
+    {
+      "$oid": "65699d199d77bf682d5de361"
+    },
+    {
+      "$oid": "657068afa6103e6dc9a45bb2"
+    },
+    {
+      "$oid": "657069c6a6103e6dc9a45bc0"
+    },
+    {
+      "$oid": "65706a9fa6103e6dc9a45bce"
+    },
+    {
+      "$oid": "65706bb1a6103e6dc9a45bdc"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:18:24.987Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T08:54:43.109Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "654df580de2dd24f7fc38959"
+  },
+  "name": "Đồ hồ thông minh",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1699607935/categories/x3nciqqzzyjg2ariox3k.png",
+  "product": [
+    {
+      "$oid": "65534c326f126abe648d89f2"
+    },
+    {
+      "$oid": "65670a7b781074cab73f92f4"
+    },
+    {
+      "$oid": "65698c78064b5058a669b6cf"
+    },
+    {
+      "$oid": "65699c969d77bf682d5de304"
+    },
+    {
+      "$oid": "65699e218754fc2852156147"
+    },
+    {
+      "$oid": "6570711da6103e6dc9a45d0e"
+    },
+    {
+      "$oid": "657072ffa6103e6dc9a45d2a"
+    },
+    {
+      "$oid": "657073d9a6103e6dc9a45d38"
+    },
+    {
+      "$oid": "658118d7ebcb5ade3e9506fc"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-10T09:18:56.658Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T04:15:19.503Z"
+  },
+  "__v": 13
+}]

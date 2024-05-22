@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6548afabcfcf694d718bc454"
+  },
+  "note": "siêu giảm giá",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868935/banner/rwccbwg2wyxyydc4hpyx.png",
+  "createdAt": {
+    "$date": "2023-11-06T09:19:39.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T13:22:18.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6548b0fe83d53908766d3df4"
+  },
+  "note": "Giảm giá 11 tháng 11",
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701868990/banner/syglsym9v43hzhbvlalm.png",
+  "createdAt": {
+    "$date": "2023-11-06T09:25:18.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T13:23:13.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570764ba6103e6dc9a45fc0"
+  },
+  "image": "https://res.cloudinary.com/dwxavjnvc/image/upload/v1701869128/banner/uwgxrvix6ep9hkflqm5j.png",
+  "createdAt": {
+    "$date": "2023-12-06T13:25:31.880Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T13:25:31.880Z"
+  },
+  "__v": 0
+}]
